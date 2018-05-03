@@ -1,0 +1,7 @@
+
+	Nombre: Erick Alexander Zaldaña Cruz
+	Grupo: SIS16-A
+	Hora: 10:10 PM;
+
+	att: se fue a luz, pero hacer propiedades a Script o Patron DAO y mostrará la hora
+	
